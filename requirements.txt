@@ -1,0 +1,6 @@
+streamlit
+shap
+pandas
+numpy
+matplotlib
+h2o==3.44.0.3
